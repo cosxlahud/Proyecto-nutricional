@@ -1,4 +1,4 @@
-	Fecha	Hora	Alimento	Calorias (kcal)	Carbohidratos (g)	Lípidos (g)	Proteinas (g)	Sodío (mg)	Evidencia			
+	Fecha	Hora	Alimento	Calorias (kcal)	Carbohidratos (g)	Lipidos (g)	Proteinas (g)	Sodio (mg)	Evidencia			
 a	8/15/2022	8:30	Cafe	6	1	0	0.42	2.28				
 a	8/15/2022	8:30	Brocoli	2.4	1.8	0	3	10				
 a	8/15/2022	8:30	Huevo	211	0.34	4.8	6.4	0.36				
